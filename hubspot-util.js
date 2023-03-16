@@ -77,7 +77,7 @@ function print(str) {
 
     
   /* TEST CASES */
-  const hubspotApiKey = 'pat-na1-a6852c10-56ef-4961-b63d-d39bf85aafdb'; // my hubspot api key
+  const hubspotApiKey = 'hubspotapikey'; // my hubspot api key
     // replace with the conversation ID you want to retrieve
     // closeChat('4148027700', hubspotApiKey);
     // getLastTimeAdminReplied('4157246071', hubspotApiKey);
